@@ -1,7 +1,7 @@
-export const CHANNEL_NAME = 'Ethem_Baba';
-export const OAUTH_TOKEN = 'oauth:wktw41pn0oviaedliedmdm3qwy21vi';
-export const BOT_USERNAME = 'potovzuc';
+export const CHANNEL_NAME = '#yourChannelName';
+export const OAUTH_TOKEN = 'oauth:yourToken';
+export const BOT_USERNAME = 'yourChannelName';
 export const BLOCKED_WORDS = [
-  'cats',
-  'dogs',
+  'badword1',
+  'badword2',
 ]
